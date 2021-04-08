@@ -12,8 +12,7 @@ The dataset for this project was taken from [Urban Sound Datasets](https://urban
 * gun_shot
 * jackhammer
 * siren
-* street_music
-<br>
+* street_music/
 Additionally metadata is provided which contains apt information about the location of each audio file, the timestamps(start and end) they were clipped from original audio. More details can be checked at the above link for the dataset.
 ___
 ## Saved Models
