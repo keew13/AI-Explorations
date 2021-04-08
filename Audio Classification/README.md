@@ -27,21 +27,21 @@ Mel-Frequency Cepstrum Coefficients were extracted from each samples and were us
 
 ## Directory Tree
 Following is the hierarchy of folders as an additional information.
-
+```
 \---Audio Classification<br>
     +---.ipynb_checkpoints<br>
     +---saved_models<br>
     \---UrbanSound8K<br>
         +---audio<br>
-        |   +---fold1<br>
-        |   +---fold10<br>
-        |   +---fold2<br>
-        |   +---fold3<br>
-        |   +---fold4<br>
-        |   +---fold5<br>
-        |   +---fold6<br>
-        |   +---fold7<br>
-        |   +---fold8<br>
-        |   \---fold9<br>
-        \---metadata<br>
-
+        |   +---fold1
+        |   +---fold10
+        |   +---fold2
+        |   +---fold3
+        |   +---fold4
+        |   +---fold5
+        |   +---fold6
+        |   +---fold7
+        |   +---fold8
+        |   \---fold9
+        \---metadata
+```
