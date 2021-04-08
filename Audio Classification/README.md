@@ -32,7 +32,7 @@ Following is the hierarchy of folders as an additional information.
     +---.ipynb_checkpoints
     +---saved_models
     \---UrbanSound8K
-        +---audio<br>
+        +---audio
         |   +---fold1
         |   +---fold10
         |   +---fold2
