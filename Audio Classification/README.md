@@ -45,3 +45,5 @@ Following is the hierarchy of folders as an additional information.
         |   \---fold9
         \---metadata
 ```
+### Note
+Directory UrbanSound8K containing the dataset has not been uploaded to the repository due to its size. However its structure is as shown above in the Directory Tree.
