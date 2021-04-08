@@ -13,7 +13,8 @@ The dataset for this project was taken from [Urban Sound Datasets](https://urban
 * jackhammer
 * siren
 * street_music
-<br><br>Additionally metadata is provided which contains apt information about the location of each audio file, the timestamps(start and end) they were clipped from original audio. More details can be checked at the above link for the dataset.
+
+Additionally metadata is provided which contains apt information about the location of each audio file, the timestamps(start and end) they were clipped from original audio. More details can be checked at the above link for the dataset.
 ___
 ## Saved Models
 Checkpoints were created during training and at every epoch the best models were saved. The models are present at [saved_models](https://github.com/keew13/AI-Explorations/tree/main/Audio%20Classification/saved_models).
