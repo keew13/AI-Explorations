@@ -18,3 +18,12 @@ Additionally metadata is provided which contains apt information about the locat
 ___
 ## Saved Models
 Checkpoints were created during training and at every epoch the best models were saved. The models are present at [saved_models](https://github.com/keew13/AI-Explorations/tree/main/Audio%20Classification/saved_models).
+___
+## Explorary Data Analysis
+A very basic EDA was performed for test samples and brief insights were collected. It can be found at [Basic Exploratory Data Analysis.ipynb](https://github.com/keew13/AI-Explorations/blob/main/Audio%20Classification/Basic%20Explorary%20Data%20Analysis.ipynb).
+___
+## Preprocessing and Training
+Mel-Frequency Cepstrum Coefficients were extracted from each samples and were used for the classification puprose. They were inputted to a very shallow ANN which can be checked at [Preprocessing and Audio Classification.ipynb](https://github.com/keew13/AI-Explorations/blob/main/Audio%20Classification/Preprocessing%20and%20Audio%20Classification.ipynb).
+___
+## Directory Tree
+Following is the hierarchy of folders as an additional information.
