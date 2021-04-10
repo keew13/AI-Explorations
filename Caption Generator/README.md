@@ -1,1 +1,2 @@
-
+# Caption Generator
+Caption Generator is another short project that uses Recurrent Neural Networks at its core for generating captions for a given input image. It also uses a combination of Convolutional Layers and Fully Connected Dense layers to extract the features out of images. This architecture is derived from all but last layers of VGG16 Neural Network architecture. One can find captions being used in today's time all over social media and sooner or later we will start getting suggestions from these social media apps for the same. Apart from this it can be useful in analysis of CCTV footage to identify various activities.     
